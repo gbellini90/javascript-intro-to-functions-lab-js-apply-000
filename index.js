@@ -13,8 +13,8 @@ function logWhisper(string){
 function sayHiToGrandma(string){
  if (console.log("hello"))
  return ("I can't hear you!")
- if (cosole.log("HELLO"))
+ if (console.log("HELLO"))
  return("YES INDEED!")
- if console.log("I love you, Grandma")
+ if (console.log("I love you, Grandma"))
  return("I love you too")
 }
