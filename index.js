@@ -5,11 +5,12 @@ function whisper(string) {
   return string.toLowerCase()
 }
 function logShout(string){
-  console.log('HELLO') 
+  console.log(string.toUpperCase()) 
 }
 function logWhisper(string){
-  console.log("hello")
+  console.log("string.toLowerCase()")
 }
-var a = "I can't hear you!"
-var b = "YES INDEED!"
-var c = "I love you too!"
+function sayHiToGrandma(string) {
+  var mixedCase.toUppercase()===
+  return string.lowerCase()
+}
